@@ -1,0 +1,55 @@
+title: Projects
+content:
+    - name: Grive
+      link: https://github.com/nhrade/grive
+      description: A command line tool for uploading and downloading files from Google drive.
+      tools:
+        - Go
+        - Google API
+    - name: Image Similarity
+      link: https://github.com/nhrade/image-similarity
+      description: 
+        A script that determines the similarity between two images. It retrieves images from Flickr
+        and then uses a keypoint algorithm to determine the keypoints in an image.
+      tools:
+        - Python
+        - OpenCV
+    - name: Bosporthennis-RGDC
+      link: https://github.com/nhrade/Bosporthennis-RGDC
+      description:
+        A relaxing game made at the RIT GDC game jam, which won 1st place. it is similar to osmos, but you have to avoid the large circles. 
+        There is algorithm which mimics newtonian gravitational motion.
+      tools:
+        - Unity
+        - C#
+    - name: Energy Saver
+      link: https://github.com/nhrade/EnergySaver
+      description: 
+        Source for VSFS application which is a google assistant skill created in Dialogflow. 
+        It has some deprecation problems and currently needs to be reworked. 
+      tools:
+        - Javascript
+        - NodeJS
+        - Dialogflow
+    - name: Starminy
+      link: https://github.com/nhrade/Pebble-Starminy
+      description:
+        Pong-like game for pebble watch in C.
+      tools:
+        - Pebble
+        - C
+    - name: noahhradek.me
+      link: https://github.com/nhrade/noahhradek.me
+      description:
+        Portfolio site
+      tools:
+        - Javascript
+        - Gatsby
+        - React
+    - name: Galaxy Generator
+      link: https://galaxy.noahhradek.me/
+      description: Galaxy generator using logorathmic spiral algorithm.
+      tools:
+        - Javascript
+        - THREE.JS
+        - WebGL
